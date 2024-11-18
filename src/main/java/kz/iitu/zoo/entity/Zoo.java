@@ -12,5 +12,7 @@ public class Zoo {
     @GeneratedValue
     private Integer id;
     private String name;
+    private String type;
+    private int age;
 
 }
